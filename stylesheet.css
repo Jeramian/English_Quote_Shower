@@ -1,0 +1,36 @@
+.body {
+    background-color: darkred;
+}
+.head {
+    text-align: center;
+    color: white;
+}
+.edu {
+    font-family: 'Lobster', cursive;
+    font-size: 44pt;
+}
+.strt {
+    font-family: 'Nosifer', cursive
+}
+.quoteBox h2 {
+    color: white;
+    text-align: center;
+}
+.quoteBox {
+    text-align: center;
+}
+.show {
+    width: 1170px;
+    height: 100px;
+    color: white;
+}
+.show2 {
+    width: 1170px;
+    height: 100px;
+    color: white;
+}
+.show3 {
+    width: 1170px;
+    height: 100px;
+    color: white;
+}
