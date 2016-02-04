@@ -21,16 +21,18 @@
 }
 .show {
     width: 1170px;
-    height: 100px;
+    height: auto;
     color: white;
+    text-align: center;
+    padding: 15px;
 }
 .show2 {
     width: 1170px;
-    height: 100px;
+    height: auto;
     color: white;
 }
 .show3 {
     width: 1170px;
-    height: 100px;
+    height: auto;
     color: white;
 }
