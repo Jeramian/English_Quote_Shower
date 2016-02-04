@@ -72,19 +72,37 @@
               </div>
           </div>
       </div>
+      
+      <div class="quoteBox">
+          <div class="row">
+              <div class="large-12 columns">
+                  <div class="callout small" style="background-color: #141414; border-radius:7px;">
+                      <h2>“A wise man ‘ud take en buil’ a biler-factry”(58).</h2>
+                      <button type="button" class="tiny alert button" id="reveal">Reveal</button>
+                      <div class="show">
+                          <h3>Street Smarts!</h3>
+                          <p>This could be a connection to people like opportunists who use what is given to them to make something bigger. Like Jim said if he had that many wives he would put them to work and make money.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
   </body>
   <script>
       $(document).ready(function() {
           $('.show').hide();
           $('.show2').hide();
           $('.show3').hide();
+          
           $('#reveal').click(function() {
              $('.show').toggle( 1000 );
           });
+          
           $('#reveal2').click(function() {
              $('.show2').toggle( 1000 );
              $
           });
+          
           $('#reveal3').click(function() {
              $('.show3').toggle( 1000 );
           });
