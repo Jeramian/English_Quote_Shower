@@ -10,7 +10,7 @@
     font-size: 44pt;
 }
 .strt {
-    font-family: 'Nosifer', cursive
+    font-family: 'Misdemeanor', cursive
 }
 .quoteBox h2 {
     color: white;
@@ -34,6 +34,13 @@
     padding: 15px;
 }
 .show3 {
+    width: 1170px;
+    height: auto;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+.show4 {
     width: 1170px;
     height: auto;
     color: white;
